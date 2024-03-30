@@ -1,3 +1,16 @@
+Time began the project:
+12:00PM EST 
+03/28/2024
+
+Time ended when the project was finished:
+10:55AM EST
+03/30/2024
+
+My coding experience with Next JS in time:
+Around 3 months.
+I started react on January 12th I think.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
